@@ -1,0 +1,8 @@
+/venv/
+/migrations/
+/.idea/
+**/__pycache__/
+*.sqlite
+*.txt
+*.env
+*.gz

@@ -1,0 +1,1796 @@
+{
+  "0": [
+    {
+      "operator": "aiva",
+      "name": "AIVA mobile"
+    },
+    {
+      "operator": "beeline",
+      "name": "\u0411\u0438\u043b\u0430\u0439\u043d"
+    },
+    {
+      "operator": "center2m",
+      "name": "\u0426\u0435\u043d\u0442\u0440 2\u041c"
+    },
+    {
+      "operator": "danycom",
+      "name": "Danycom Mobile"
+    },
+    {
+      "operator": "ezmobile",
+      "name": "EZ Mobile"
+    },
+    {
+      "operator": "lycamobile",
+      "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "matrix",
+      "name": "\u041c\u0410\u0422\u0420\u0418\u041a\u0421 \u043c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "megafon",
+      "name": "\u041c\u0435\u0433\u0430\u0424\u043e\u043d"
+    },
+    {
+      "operator": "motiv",
+      "name": "\u041c\u043e\u0442\u0438\u0432"
+    },
+    {
+      "operator": "mts",
+      "name": "\u041c\u0422\u0421"
+    },
+    {
+      "operator": "mtt",
+      "name": "\u041c\u0422\u0422"
+    },
+    {
+      "operator": "mtt_virtual",
+      "name": "\u041c\u0422\u0422 \u0432\u0438\u0440\u0442\u0443\u0430\u043b"
+    },
+    {
+      "operator": "rostelecom",
+      "name": "\u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c"
+    },
+    {
+      "operator": "sber",
+      "name": "\u0421\u0431\u0435\u0440\u041c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "simsim",
+      "name": "SIM SIM"
+    },
+    {
+      "operator": "tele2",
+      "name": "Tele2"
+    },
+    {
+      "operator": "tinkoff",
+      "name": "\u0422\u0438\u043d\u044c\u043a\u043e\u0444\u0444 \u041c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "ttk",
+      "name": "TTK Mobile"
+    },
+    {
+      "operator": "winmobile",
+      "name": "Win Mobile"
+    },
+    {
+      "operator": "yota",
+      "name": "Yota"
+    }
+  ],
+  "1": [
+    {
+      "operator": "3mob",
+      "name": "\u0422\u0440\u0438\u041c\u043e\u0431"
+    },
+    {
+      "operator": "intertelecom",
+      "name": "\u0418\u043d\u0442\u0435\u0440\u0442\u0435\u043b\u0435\u043a\u043e\u043c"
+    },
+    {
+      "operator": "kyivstar",
+      "name": "\u041a\u0438\u0435\u0432\u0441\u0442\u0430\u0440"
+    },
+    {
+      "operator": "life",
+      "name": "Life:)"
+    },
+    {
+      "operator": "lycamobile",
+      "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "mts",
+      "name": "\u041c\u0422\u0421"
+    },
+    {
+      "operator": "utel",
+      "name": "\u0423\u0442\u0435\u043b"
+    },
+    {
+      "operator": "vodafone",
+      "name": "Vodafone Group"
+    }
+  ],
+  "2": [
+    {
+      "operator": "activ",
+      "name": "\u0410\u043a\u0442\u0438\u0432"
+    },
+    {
+      "operator": "altel",
+      "name": "\u0410\u043b\u0442\u0435\u043b"
+    },
+    {
+      "operator": "beeline",
+      "name": "\u0411\u0438\u043b\u0430\u0439\u043d"
+    },
+    {
+      "operator": "kcell",
+      "name": "Kcell"
+    },
+    {
+      "operator": "tele2",
+      "name": "Tele2"
+    }
+  ],
+  "3": [
+    {
+      "operator": "chinamobile",
+      "name": "China Mobile"
+    },
+    {
+      "operator": "china_unicom",
+      "name": "china unicom"
+    },
+    {
+      "operator": "unicom",
+      "name": "China Unicom"
+    }
+  ],
+  "4": [
+    {
+      "operator": "globe_telecom",
+      "name": "Globe Telecom"
+    },
+    {
+      "operator": "smart",
+      "name": "Smart Telecom"
+    },
+    {
+      "operator": "tm",
+      "name": "TM (Globe)"
+    }
+  ],
+  "5": [
+    {
+      "operator": "telenor",
+      "name": "Telenor"
+    }
+  ],
+  "6": [
+    {
+      "operator": "axis",
+      "name": "AXIS (XL Axiata)"
+    },
+    {
+      "operator": "indosat",
+      "name": "Indosat Ooredoo"
+    },
+    {
+      "operator": "smartfren",
+      "name": "smartfren"
+    },
+    {
+      "operator": "telkomsel",
+      "name": "Telkomsel"
+    },
+    {
+      "operator": "three",
+      "name": "Three"
+    }
+  ],
+  "7": [
+    {
+      "operator": "celcom",
+      "name": "\u0421\u0435\u043b\u043a\u043e\u043c"
+    },
+    {
+      "operator": "digi",
+      "name": "DIGI Mobil"
+    },
+    {
+      "operator": "hotlink",
+      "name": "Hotlink"
+    },
+    {
+      "operator": "u_mobile",
+      "name": "U Mobile"
+    },
+    {
+      "operator": "xox",
+      "name": "xox"
+    },
+    {
+      "operator": "yoodo",
+      "name": "Yoodo"
+    }
+  ],
+  "8": [
+    {
+      "operator": "airtel",
+      "name": "AirTel"
+    },
+    {
+      "operator": "econet",
+      "name": "Econet Wireless"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    },
+    {
+      "operator": "safaricom",
+      "name": "Safaricom PLC"
+    },
+    {
+      "operator": "telkom",
+      "name": "Telkom"
+    }
+  ],
+  "9": [
+    {
+      "operator": "airtel",
+      "name": "AirTel"
+    },
+    {
+      "operator": "tigo",
+      "name": "tiGo"
+    },
+    {
+      "operator": "vodacom",
+      "name": "Vodacom"
+    }
+  ],
+  "10": [
+    {
+      "operator": "itelecom",
+      "name": "Itelecom (Indochina Telecom)"
+    },
+    {
+      "operator": "mobifone",
+      "name": "MobiFone"
+    },
+    {
+      "operator": "vietnamobile",
+      "name": "Vietnamobile"
+    },
+    {
+      "operator": "viettel",
+      "name": "Viettel Group"
+    },
+    {
+      "operator": "vinaphone",
+      "name": "VinaPhone"
+    }
+  ],
+  "11": [
+    {
+      "operator": "beeline",
+      "name": "\u0411\u0438\u043b\u0430\u0439\u043d"
+    },
+    {
+      "operator": "megacom",
+      "name": "\u041c\u0435\u0433\u0430\u043a\u043e\u043c"
+    },
+    {
+      "operator": "o!",
+      "name": "\u041e!"
+    }
+  ],
+  "12": [
+    {
+      "operator": "cellular",
+      "name": "U.S. Cellular"
+    },
+    {
+      "operator": "tmobile",
+      "name": "T-Mobile (EE)"
+    }
+  ],
+  "13": [
+    {
+      "operator": "019mobile",
+      "name": "019 Mobile"
+    },
+    {
+      "operator": "golan_telecom",
+      "name": "\u0413\u043e\u043b\u0430\u043d \u0422\u0435\u043b\u0435\u043a\u043e\u043c"
+    },
+    {
+      "operator": "home_cellular",
+      "name": "Home Cellular"
+    },
+    {
+      "operator": "hot_mobile",
+      "name": "Hot Mobile"
+    },
+    {
+      "operator": "jawwal",
+      "name": "Jawwal"
+    },
+    {
+      "operator": "ooredoo",
+      "name": "Ooredoo"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    },
+    {
+      "operator": "pelephone",
+      "name": "\u041f\u0435\u043b\u0435\u0444\u043e\u043d"
+    },
+    {
+      "operator": "rami_levy",
+      "name": "Rami Levy"
+    }
+  ],
+  "14": [
+    {
+      "operator": "chinamobile",
+      "name": "China Mobile"
+    },
+    {
+      "operator": "csl_mobile",
+      "name": "CSL Mobile"
+    },
+    {
+      "operator": "imc",
+      "name": "IMC Networks"
+    },
+    {
+      "operator": "smartone",
+      "name": "smartone"
+    },
+    {
+      "operator": "three",
+      "name": "Three"
+    },
+    {
+      "operator": "unicom",
+      "name": "China Unicom"
+    }
+  ],
+  "15": [
+    {
+      "operator": "aero2",
+      "name": "Aero2"
+    },
+    {
+      "operator": "e_telko",
+      "name": "E-Telko"
+    },
+    {
+      "operator": "klucz",
+      "name": "Klucz Mobile"
+    },
+    {
+      "operator": "lycamobile",
+      "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "netia",
+      "name": "Netia"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    },
+    {
+      "operator": "play",
+      "name": "Play"
+    },
+    {
+      "operator": "plus",
+      "name": "Plus"
+    },
+    {
+      "operator": "tmobile",
+      "name": "T-Mobile (EE)"
+    }
+  ],
+  "16": [
+    {
+      "operator": "cmlink",
+      "name": "CMLink"
+    },
+    {
+      "operator": "ee",
+      "name": "EE"
+    },
+    {
+      "operator": "ezmobile",
+      "name": "EZ Mobile"
+    },
+    {
+      "operator": "lebara",
+      "name": "\u041b\u0435\u0431\u0430\u0440\u0430"
+    },
+    {
+      "operator": "lycamobile",
+      "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "o2",
+      "name": "\u041e2"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    },
+    {
+      "operator": "talk_telecom",
+      "name": "Talk Telecom"
+    },
+    {
+      "operator": "three",
+      "name": "Three"
+    },
+    {
+      "operator": "tmobile",
+      "name": "T-Mobile (EE)"
+    },
+    {
+      "operator": "vectone",
+      "name": "Vectone Mobile"
+    },
+    {
+      "operator": "vodafone",
+      "name": "Vodafone Group"
+    }
+  ],
+  "18": [
+    {
+      "operator": "africel",
+      "name": "Africell"
+    },
+    {
+      "operator": "airtel",
+      "name": "AirTel"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    },
+    {
+      "operator": "vodacom",
+      "name": "Vodacom"
+    }
+  ],
+  "19": [
+    {
+      "operator": "airtel",
+      "name": "AirTel"
+    },
+    {
+      "operator": "etisalat",
+      "name": "Etisalat"
+    },
+    {
+      "operator": "glomobile",
+      "name": "GLO Mobile"
+    },
+    {
+      "operator": "mtn",
+      "name": "MTN Group"
+    }
+  ],
+  "20": [
+    {
+      "operator": "3macao",
+      "name": "3 (Three) \u041c\u0430\u043a\u0430\u043e"
+    }
+  ],
+  "21": [
+    {
+      "operator": "etisalat",
+      "name": "Etisalat"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    },
+    {
+      "operator": "vodafone",
+      "name": "Vodafone Group"
+    }
+  ],
+  "23": [
+    {
+      "operator": "48mobile",
+      "name": "48mobile"
+    },
+    {
+      "operator": "lycamobile",
+      "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "tesco",
+      "name": "tesco"
+    }
+  ],
+  "24": [
+    {
+      "operator": "metfone",
+      "name": "metfone"
+    }
+  ],
+  "25": [
+    {
+      "operator": "etl",
+      "name": "ETL Lao"
+    },
+    {
+      "operator": "telekom",
+      "name": "Telekom"
+    },
+    {
+      "operator": "tplus",
+      "name": "TPLUS"
+    },
+    {
+      "operator": "unitel",
+      "name": "Unitel"
+    }
+  ],
+  "26": [
+    {
+      "operator": "natcom",
+      "name": "Natcom"
+    }
+  ],
+  "27": [
+    {
+      "operator": "moov",
+      "name": "Moov"
+    },
+    {
+      "operator": "mtn",
+      "name": "MTN Group"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    }
+  ],
+  "28": [
+    {
+      "operator": "africel",
+      "name": "Africell"
+    },
+    {
+      "operator": "comium",
+      "name": "\u0421omium"
+    },
+    {
+      "operator": "gamcel",
+      "name": "Gamcel Gambia Co."
+    },
+    {
+      "operator": "qcell",
+      "name": "QCell"
+    }
+  ],
+  "29": [
+    {
+      "operator": "mobtel",
+      "name": "Telenor Serbia (Mobtel)"
+    },
+    {
+      "operator": "mts",
+      "name": "\u041c\u0422\u0421"
+    },
+    {
+      "operator": "vip",
+      "name": "VIP"
+    }
+  ],
+  "30": [
+    {
+      "operator": "mtn",
+      "name": "MTN Group"
+    },
+    {
+      "operator": "sabafon",
+      "name": "SabaFon"
+    },
+    {
+      "operator": "yemen_mobile",
+      "name": "Yemen Mobile"
+    }
+  ],
+  "31": [
+    {
+      "operator": "cell_c",
+      "name": "cell c"
+    },
+    {
+      "operator": "lycamobile",
+      "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "mtn",
+      "name": "MTN Group"
+    },
+    {
+      "operator": "telkom",
+      "name": "Telkom"
+    },
+    {
+      "operator": "vodacom",
+      "name": "Vodacom"
+    }
+  ],
+  "32": [
+    {
+      "operator": "digi",
+      "name": "DIGI Mobil"
+    },
+    {
+      "operator": "lycamobile",
+      "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "my_avon",
+      "name": "MyAvon"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    },
+    {
+      "operator": "runex_telecom",
+      "name": "RUNEX Telecom"
+    },
+    {
+      "operator": "telekom",
+      "name": "Telekom"
+    },
+    {
+      "operator": "vodafone",
+      "name": "Vodafone Group"
+    }
+  ],
+  "33": [
+    {
+      "operator": "claro",
+      "name": "Claro Americas"
+    }
+  ],
+  "34": [
+    {
+      "operator": "elisa",
+      "name": "Elisa Oyj"
+    },
+    {
+      "operator": "goodline",
+      "name": "\u0413\u0443\u0434\u041b\u0430\u0439\u043d"
+    },
+    {
+      "operator": "super",
+      "name": "Super"
+    },
+    {
+      "operator": "tele2",
+      "name": "Tele2"
+    },
+    {
+      "operator": "topconnect",
+      "name": "Top Connect (Travel SIM)"
+    }
+  ],
+  "35": [
+    {
+      "operator": "azerfon",
+      "name": "Azerfon-Vodafone"
+    }
+  ],
+  "36": [
+    {
+      "operator": "cellular",
+      "name": "U.S. Cellular"
+    },
+    {
+      "operator": "fido",
+      "name": "fido"
+    },
+    {
+      "operator": "lucky",
+      "name": "Lucky Mobile"
+    },
+    {
+      "operator": "rogers",
+      "name": "rogers"
+    },
+    {
+      "operator": "telus",
+      "name": "telus"
+    }
+  ],
+  "37": [
+    {
+      "operator": "iam",
+      "name": "iam"
+    },
+    {
+      "operator": "inwi",
+      "name": "INWI"
+    },
+    {
+      "operator": "itissalat",
+      "name": "Itissalat al-Maghrib"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    }
+  ],
+  "38": [
+    {
+      "operator": "airtel",
+      "name": "AirTel"
+    },
+    {
+      "operator": "glomobile",
+      "name": "GLO Mobile"
+    },
+    {
+      "operator": "millicom",
+      "name": "Millicom (tiGO)"
+    },
+    {
+      "operator": "mtn",
+      "name": "MTN Group"
+    },
+    {
+      "operator": "vodafone",
+      "name": "Vodafone Group"
+    }
+  ],
+  "40": [
+    {
+      "operator": "beeline",
+      "name": "\u0411\u0438\u043b\u0430\u0439\u043d"
+    },
+    {
+      "operator": "mobiuz",
+      "name": "Mobiuz"
+    },
+    {
+      "operator": "mts",
+      "name": "\u041c\u0422\u0421"
+    },
+    {
+      "operator": "ucell",
+      "name": "UCell"
+    },
+    {
+      "operator": "uzmobile",
+      "name": "Uzmobile"
+    }
+  ],
+  "41": [
+    {
+      "operator": "mtn",
+      "name": "MTN Group"
+    },
+    {
+      "operator": "nexttel",
+      "name": "NeXttel"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    }
+  ],
+  "42": [
+    {
+      "operator": "airtel",
+      "name": "AirTel"
+    },
+    {
+      "operator": "salam",
+      "name": "Salam"
+    },
+    {
+      "operator": "tigo",
+      "name": "tiGo"
+    }
+  ],
+  "43": [
+    {
+      "operator": "fonic",
+      "name": "FONIC"
+    },
+    {
+      "operator": "lebara",
+      "name": "\u041b\u0435\u0431\u0430\u0440\u0430"
+    },
+    {
+      "operator": "lycamobile",
+      "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "o2",
+      "name": "\u041e2"
+    },
+    {
+      "operator": "ortel_mobile",
+      "name": "Ortel Mobile"
+    },
+    {
+      "operator": "telekom",
+      "name": "Telekom"
+    },
+    {
+      "operator": "vodafone",
+      "name": "Vodafone Group"
+    }
+  ],
+  "44": [
+    {
+      "operator": "bite",
+      "name": "bite"
+    },
+    {
+      "operator": "tele2",
+      "name": "Tele2"
+    },
+    {
+      "operator": "telia",
+      "name": "Telia Company"
+    }
+  ],
+  "45": [
+    {
+      "operator": "a1",
+      "name": "A1"
+    },
+    {
+      "operator": "tele2",
+      "name": "Tele2"
+    },
+    {
+      "operator": "tmobile",
+      "name": "T-Mobile (EE)"
+    },
+    {
+      "operator": "tomato",
+      "name": "Tomato"
+    }
+  ],
+  "46": [
+    {
+      "operator": "comviq",
+      "name": "ComvIQ"
+    },
+    {
+      "operator": "lycamobile",
+      "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "tele2",
+      "name": "Tele2"
+    },
+    {
+      "operator": "telenor",
+      "name": "Telenor"
+    },
+    {
+      "operator": "telia",
+      "name": "Telia Company"
+    },
+    {
+      "operator": "three",
+      "name": "Three"
+    },
+    {
+      "operator": "vectone",
+      "name": "Vectone Mobile"
+    },
+    {
+      "operator": "vodafone",
+      "name": "Vodafone Group"
+    }
+  ],
+  "47": [
+    {
+      "operator": "asiacell",
+      "name": "AsiaCell Telecom"
+    },
+    {
+      "operator": "korek",
+      "name": "Korek Telecom"
+    },
+    {
+      "operator": "zain",
+      "name": "Zain"
+    }
+  ],
+  "48": [
+    {
+      "operator": "kpn",
+      "name": "KPN"
+    },
+    {
+      "operator": "lebara",
+      "name": "\u041b\u0435\u0431\u0430\u0440\u0430"
+    },
+    {
+      "operator": "lycamobile",
+      "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "l_mobi",
+      "name": "L-mobi"
+    },
+    {
+      "operator": "tmobile",
+      "name": "T-Mobile (EE)"
+    },
+    {
+      "operator": "vodafone",
+      "name": "Vodafone Group"
+    }
+  ],
+  "49": [
+    {
+      "operator": "bite",
+      "name": "bite"
+    },
+    {
+      "operator": "lmt",
+      "name": "lmt"
+    },
+    {
+      "operator": "tele2",
+      "name": "Tele2"
+    }
+  ],
+  "50": [
+    {
+      "operator": "a1",
+      "name": "A1"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    },
+    {
+      "operator": "telering",
+      "name": "Tele.Ring"
+    },
+    {
+      "operator": "three",
+      "name": "Three"
+    },
+    {
+      "operator": "tmobile",
+      "name": "T-Mobile (EE)"
+    }
+  ],
+  "51": [
+    {
+      "operator": "best",
+      "name": "Life:) (\u0411\u0435\u0421\u0422)"
+    },
+    {
+      "operator": "life",
+      "name": "Life:)"
+    },
+    {
+      "operator": "mdc",
+      "name": "MDC"
+    },
+    {
+      "operator": "mts",
+      "name": "\u041c\u0422\u0421"
+    }
+  ],
+  "52": [
+    {
+      "operator": "ais",
+      "name": "AIS"
+    },
+    {
+      "operator": "dtac",
+      "name": "DTAC"
+    },
+    {
+      "operator": "truemove",
+      "name": "TrueMove H"
+    }
+  ],
+  "54": [
+    {
+      "operator": "telcel",
+      "name": "Telcel"
+    }
+  ],
+  "55": [
+    {
+      "operator": "chunghwa",
+      "name": "Chunghwa Telecom"
+    },
+    {
+      "operator": "fareast",
+      "name": "Far EasTone"
+    }
+  ],
+  "56": [
+    {
+      "operator": "altecom",
+      "name": "altecom"
+    },
+    {
+      "operator": "euskaltel",
+      "name": "euskaltel"
+    },
+    {
+      "operator": "lebara",
+      "name": "\u041b\u0435\u0431\u0430\u0440\u0430"
+    },
+    {
+      "operator": "lycamobile",
+      "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "movistar",
+      "name": "movistar"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    },
+    {
+      "operator": "vodafone",
+      "name": "Vodafone Group"
+    },
+    {
+      "operator": "yoigo",
+      "name": "yoigo"
+    },
+    {
+      "operator": "you_mobile",
+      "name": "You Mobile"
+    }
+  ],
+  "57": [
+    {
+      "operator": "aptel",
+      "name": "ApTel"
+    },
+    {
+      "operator": "azartel",
+      "name": "Azartel"
+    },
+    {
+      "operator": "hamrah_e_aval",
+      "name": "Hamrah e Aval"
+    },
+    {
+      "operator": "irancell",
+      "name": "MTN Irancell"
+    },
+    {
+      "operator": "mtn",
+      "name": "MTN Group"
+    },
+    {
+      "operator": "rightel",
+      "name": "RighTel Communications"
+    },
+    {
+      "operator": "samantel",
+      "name": "Samantel Mobile"
+    },
+    {
+      "operator": "shatel",
+      "name": "Shatel Mobile"
+    },
+    {
+      "operator": "taliya",
+      "name": "Taliya Mobile"
+    },
+    {
+      "operator": "tci",
+      "name": "tci"
+    }
+  ],
+  "58": [
+    {
+      "operator": "djezzy",
+      "name": "Djezzy"
+    },
+    {
+      "operator": "mobilis",
+      "name": "Mobilis"
+    },
+    {
+      "operator": "ooredoo",
+      "name": "Ooredoo"
+    }
+  ],
+  "59": [
+    {
+      "operator": "a1",
+      "name": "A1"
+    },
+    {
+      "operator": "telekom",
+      "name": "Telekom"
+    },
+    {
+      "operator": "telemach",
+      "name": "Telemach"
+    }
+  ],
+  "61": [
+    {
+      "operator": "expresso",
+      "name": "expresso"
+    },
+    {
+      "operator": "free",
+      "name": "free"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    }
+  ],
+  "63": [
+    {
+      "operator": "o2",
+      "name": "\u041e2"
+    },
+    {
+      "operator": "tmobile",
+      "name": "T-Mobile (EE)"
+    },
+    {
+      "operator": "vodafone",
+      "name": "Vodafone Group"
+    }
+  ],
+  "64": [
+    {
+      "operator": "airtel",
+      "name": "AirTel"
+    },
+    {
+      "operator": "etisalat",
+      "name": "Etisalat"
+    }
+  ],
+  "67": [
+    {
+      "operator": "2degree",
+      "name": "2degrees"
+    },
+    {
+      "operator": "vodafone",
+      "name": "Vodafone Group"
+    }
+  ],
+  "68": [
+    {
+      "operator": "cellcom",
+      "name": "\u0421\u0435\u043b\u043a\u043e\u043c"
+    },
+    {
+      "operator": "mtn",
+      "name": "MTN Group"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    }
+  ],
+  "69": [
+    {
+      "operator": "malitel",
+      "name": "Malitel"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    },
+    {
+      "operator": "telecel",
+      "name": "Telecel"
+    }
+  ],
+  "71": [
+    {
+      "operator": "mtn",
+      "name": "MTN Group"
+    }
+  ],
+  "72": [
+    {
+      "operator": "beeline",
+      "name": "\u0411\u0438\u043b\u0430\u0439\u043d"
+    }
+  ],
+  "73": [
+    {
+      "operator": "algartelecom",
+      "name": "Algar Telecom"
+    },
+    {
+      "operator": "claro",
+      "name": "Claro Americas"
+    },
+    {
+      "operator": "correios_celular",
+      "name": "Correios Celular"
+    },
+    {
+      "operator": "oi",
+      "name": "Oi"
+    },
+    {
+      "operator": "tim",
+      "name": "TIM"
+    },
+    {
+      "operator": "vivo",
+      "name": "Vivo S.A."
+    }
+  ],
+  "74": [
+    {
+      "operator": "salaam",
+      "name": "Salaam"
+    }
+  ],
+  "75": [
+    {
+      "operator": "airtel",
+      "name": "AirTel"
+    },
+    {
+      "operator": "k2_telecom",
+      "name": "K2 Telecom"
+    },
+    {
+      "operator": "lycamobile",
+      "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "mtn",
+      "name": "MTN Group"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    },
+    {
+      "operator": "smart",
+      "name": "Smart Telecom"
+    },
+    {
+      "operator": "smile",
+      "name": "SmileTelecom"
+    },
+    {
+      "operator": "uganda_telecom",
+      "name": "Uganda Telecom"
+    }
+  ],
+  "77": [
+    {
+      "operator": "cablenet",
+      "name": "Cablenet"
+    },
+    {
+      "operator": "cyta",
+      "name": "CYTA"
+    },
+    {
+      "operator": "epic",
+      "name": "Epic"
+    },
+    {
+      "operator": "lemontel",
+      "name": "Lemontel"
+    },
+    {
+      "operator": "primetel",
+      "name": "PrimeTel"
+    },
+    {
+      "operator": "vectone",
+      "name": "Vectone Mobile"
+    }
+  ],
+  "78": [
+    {
+      "operator": "bouygues",
+      "name": "Bouygues Telecom"
+    },
+    {
+      "operator": "lebara",
+      "name": "\u041b\u0435\u0431\u0430\u0440\u0430"
+    },
+    {
+      "operator": "lycamobile",
+      "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    },
+    {
+      "operator": "sfr",
+      "name": "SFR"
+    },
+    {
+      "operator": "syma_mobile",
+      "name": "Syma Mobile"
+    },
+    {
+      "operator": "vectone",
+      "name": "Vectone Mobile"
+    }
+  ],
+  "82": [
+    {
+      "operator": "orange",
+      "name": "Orange"
+    }
+  ],
+  "83": [
+    {
+      "operator": "a1",
+      "name": "A1"
+    },
+    {
+      "operator": "telenor",
+      "name": "Telenor"
+    },
+    {
+      "operator": "vivacom",
+      "name": "VIVACOM"
+    }
+  ],
+  "85": [
+    {
+      "operator": "moldcell",
+      "name": "Moldcell"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    },
+    {
+      "operator": "unite",
+      "name": "Unite"
+    }
+  ],
+  "86": [
+    {
+      "operator": "kena_mobile",
+      "name": "kena mobile"
+    },
+    {
+      "operator": "lycamobile",
+      "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "tim",
+      "name": "TIM"
+    },
+    {
+      "operator": "vodafone",
+      "name": "Vodafone Group"
+    },
+    {
+      "operator": "wind",
+      "name": "Wind"
+    }
+  ],
+  "89": [
+    {
+      "operator": "ooredoo",
+      "name": "Ooredoo"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    },
+    {
+      "operator": "tunicell",
+      "name": "Tunisie Telecom"
+    }
+  ],
+  "94": [
+    {
+      "operator": "claro",
+      "name": "Claro Americas"
+    },
+    {
+      "operator": "movistar",
+      "name": "movistar"
+    },
+    {
+      "operator": "tigo",
+      "name": "tiGo"
+    }
+  ],
+  "98": [
+    {
+      "operator": "mtn",
+      "name": "MTN Group"
+    },
+    {
+      "operator": "sudani_one",
+      "name": "sudani one"
+    },
+    {
+      "operator": "zain",
+      "name": "Zain"
+    }
+  ],
+  "101": [
+    {
+      "operator": "claro",
+      "name": "Claro Americas"
+    },
+    {
+      "operator": "digi",
+      "name": "DIGI Mobil"
+    },
+    {
+      "operator": "movistar",
+      "name": "movistar"
+    },
+    {
+      "operator": "red",
+      "name": "red"
+    },
+    {
+      "operator": "tigo",
+      "name": "tiGo"
+    }
+  ],
+  "103": [
+    {
+      "operator": "digi",
+      "name": "DIGI Mobil"
+    }
+  ],
+  "105": [
+    {
+      "operator": "cnt_mobile",
+      "name": "cnt mobile"
+    },
+    {
+      "operator": "tuenti",
+      "name": "tuenti"
+    }
+  ],
+  "109": [
+    {
+      "operator": "altice",
+      "name": "Altice"
+    },
+    {
+      "operator": "claro",
+      "name": "Claro Americas"
+    },
+    {
+      "operator": "viva",
+      "name": "viva"
+    }
+  ],
+  "113": [
+    {
+      "operator": "cubacel",
+      "name": "Cubacel"
+    }
+  ],
+  "114": [
+    {
+      "operator": "chinguitel",
+      "name": "Chinguitel"
+    },
+    {
+      "operator": "mattel",
+      "name": "Mattel"
+    },
+    {
+      "operator": "mauritel",
+      "name": "Mauritel"
+    }
+  ],
+  "115": [
+    {
+      "operator": "africel",
+      "name": "Africell"
+    },
+    {
+      "operator": "airtel",
+      "name": "AirTel"
+    },
+    {
+      "operator": "qcell",
+      "name": "QCell"
+    }
+  ],
+  "116": [
+    {
+      "operator": "orange",
+      "name": "Orange"
+    },
+    {
+      "operator": "umniah",
+      "name": "Umniah"
+    },
+    {
+      "operator": "xpress",
+      "name": "XPress"
+    },
+    {
+      "operator": "zain",
+      "name": "Zain"
+    }
+  ],
+  "117": [
+    {
+      "operator": "lycamobile",
+      "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "nos",
+      "name": "NOS"
+    },
+    {
+      "operator": "vodafone",
+      "name": "Vodafone Group"
+    }
+  ],
+  "119": [
+    {
+      "operator": "africel",
+      "name": "Africell"
+    },
+    {
+      "operator": "econet",
+      "name": "Econet Wireless"
+    },
+    {
+      "operator": "lacell",
+      "name": "Lacell SU"
+    },
+    {
+      "operator": "telecel",
+      "name": "Telecel"
+    },
+    {
+      "operator": "viettel",
+      "name": "Viettel Group"
+    }
+  ],
+  "123": [
+    {
+      "operator": "be_mobile",
+      "name": "BeMobile"
+    },
+    {
+      "operator": "mascom",
+      "name": "Mascom"
+    },
+    {
+      "operator": "orange",
+      "name": "Orange"
+    }
+  ],
+  "128": [
+    {
+      "operator": "beeline",
+      "name": "\u0411\u0438\u043b\u0430\u0439\u043d"
+    },
+    {
+      "operator": "geocell",
+      "name": "Geocell"
+    },
+    {
+      "operator": "hamrah_e_aval",
+      "name": "Hamrah e Aval"
+    },
+    {
+      "operator": "magticom",
+      "name": "MagtiCom"
+    }
+  ],
+  "129": [
+    {
+      "operator": "cosmote",
+      "name": "Cosmote"
+    },
+    {
+      "operator": "ose",
+      "name": "ose"
+    },
+    {
+      "operator": "q_telecom",
+      "name": "Q-Telecom"
+    },
+    {
+      "operator": "vodafone",
+      "name": "Vodafone Group"
+    }
+  ],
+  "135": [
+    {
+      "operator": "cellcom",
+      "name": "\u0421\u0435\u043b\u043a\u043e\u043c"
+    },
+    {
+      "operator": "comium",
+      "name": "\u0421omium"
+    },
+    {
+      "operator": "libercell",
+      "name": "LiberCell"
+    },
+    {
+      "operator": "libtelco",
+      "name": "Libtelco"
+    },
+    {
+      "operator": "lonestar",
+      "name": "Lonestar Cell"
+    }
+  ],
+  "140": [
+    {
+      "operator": "airtel",
+      "name": "AirTel"
+    },
+    {
+      "operator": "mtn",
+      "name": "MTN Group"
+    }
+  ],
+  "147": [
+    {
+      "operator": "airtel",
+      "name": "AirTel"
+    },
+    {
+      "operator": "mtn",
+      "name": "MTN Group"
+    },
+    {
+      "operator": "zamtel",
+      "name": "zamtel"
+    }
+  ],
+  "148": [
+    {
+      "operator": "viva",
+      "name": "viva"
+    },
+    {
+      "operator": "vivo",
+      "name": "Vivo S.A."
+    }
+  ],
+  "151": [
+    {
+      "operator": "claro",
+      "name": "Claro Americas"
+    },
+    {
+      "operator": "movistar",
+      "name": "movistar"
+    }
+  ],
+  "152": [
+    {
+      "operator": "airtel",
+      "name": "AirTel"
+    },
+    {
+      "operator": "onatel",
+      "name": "Onatel S.A."
+    },
+    {
+      "operator": "telecel",
+      "name": "Telecel"
+    }
+  ],
+  "153": [
+    {
+      "operator": "alfa",
+      "name": "Alfa"
+    },
+    {
+      "operator": "ogero",
+      "name": "Ogero"
+    },
+    {
+      "operator": "touch",
+      "name": "Touch"
+    }
+  ],
+  "155": [
+    {
+      "operator": "vodafone",
+      "name": "Vodafone Group"
+    }
+  ],
+  "163": [
+    {
+      "operator": "dna",
+      "name": "DNA"
+    }
+  ],
+  "172": [
+    {
+      "operator": "lycamobile",
+      "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b"
+    }
+  ],
+  "175": [
+    {
+      "operator": "optus",
+      "name": "Optus"
+    }
+  ],
+  "177": [
+    {
+      "operator": "mtn",
+      "name": "MTN Group"
+    },
+    {
+      "operator": "zain",
+      "name": "Zain"
+    }
+  ],
+  "183": [
+    {
+      "operator": "a1",
+      "name": "A1"
+    },
+    {
+      "operator": "lycamobile",
+      "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "telekom",
+      "name": "Telekom"
+    },
+    {
+      "operator": "vip",
+      "name": "VIP"
+    }
+  ],
+  "187": [
+    {
+      "operator": "lycamobile",
+      "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b"
+    },
+    {
+      "operator": "tmobile",
+      "name": "T-Mobile (EE)"
+    }
+  ]
+}

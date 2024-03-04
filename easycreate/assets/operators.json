@@ -1,0 +1,1545 @@
+{
+  "019mobile": {
+    "name": "019 Mobile",
+    "countries": [
+      "\u0418\u0437\u0440\u0430\u0438\u043b\u044c"
+    ]
+  },
+  "2degree": {
+    "name": "2degrees",
+    "countries": [
+      "\u041d\u043e\u0432\u0430\u044f \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f"
+    ]
+  },
+  "3macao": {
+    "name": "3 (Three) \u041c\u0430\u043a\u0430\u043e",
+    "countries": [
+      "\u041c\u0430\u043a\u0430\u043e"
+    ]
+  },
+  "3mob": {
+    "name": "\u0422\u0440\u0438\u041c\u043e\u0431",
+    "countries": [
+      "\u0423\u043a\u0440\u0430\u0438\u043d\u0430"
+    ]
+  },
+  "48mobile": {
+    "name": "48mobile",
+    "countries": [
+      "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
+    ]
+  },
+  "a1": {
+    "name": "A1",
+    "countries": [
+      "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f",
+      "\u0410\u0432\u0441\u0442\u0440\u0438\u044f",
+      "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f",
+      "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f",
+      "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+    ]
+  },
+  "activ": {
+    "name": "\u0410\u043a\u0442\u0438\u0432",
+    "countries": [
+      "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
+    ]
+  },
+  "aero2": {
+    "name": "Aero2",
+    "countries": [
+      "\u041f\u043e\u043b\u044c\u0448\u0430"
+    ]
+  },
+  "africel": {
+    "name": "Africell",
+    "countries": [
+      "\u0414\u0435\u043c. \u041a\u043e\u043d\u0433\u043e",
+      "\u0413\u0430\u043c\u0431\u0438\u044f",
+      "\u0421\u044c\u0435\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435",
+      "\u0411\u0443\u0440\u0443\u043d\u0434\u0438"
+    ]
+  },
+  "airtel": {
+    "name": "AirTel",
+    "countries": [
+      "\u041a\u0435\u043d\u0438\u044f",
+      "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f",
+      "\u0414\u0435\u043c. \u041a\u043e\u043d\u0433\u043e",
+      "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+      "\u0413\u0430\u043d\u0430",
+      "\u0427\u0430\u0434",
+      "\u0428\u0440\u0438-\u041b\u0430\u043d\u043a\u0430",
+      "\u0423\u0433\u0430\u043d\u0434\u0430",
+      "\u0421\u044c\u0435\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435",
+      "\u0420\u0443\u0430\u043d\u0434\u0430",
+      "\u0417\u0430\u043c\u0431\u0438\u044f",
+      "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e"
+    ]
+  },
+  "ais": {
+    "name": "AIS",
+    "countries": [
+      "\u0422\u0430\u0438\u043b\u0430\u043d\u0434"
+    ]
+  },
+  "aiva": {
+    "name": "AIVA mobile",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f"
+    ]
+  },
+  "alfa": {
+    "name": "Alfa",
+    "countries": [
+      "\u041b\u0438\u0432\u0430\u043d"
+    ]
+  },
+  "algartelecom": {
+    "name": "Algar Telecom",
+    "countries": [
+      "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f"
+    ]
+  },
+  "altecom": {
+    "name": "altecom",
+    "countries": [
+      "\u0418\u0441\u043f\u0430\u043d\u0438\u044f"
+    ]
+  },
+  "altel": {
+    "name": "\u0410\u043b\u0442\u0435\u043b",
+    "countries": [
+      "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
+    ]
+  },
+  "altice": {
+    "name": "Altice",
+    "countries": [
+      "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ]
+  },
+  "aptel": {
+    "name": "ApTel",
+    "countries": [
+      "\u0418\u0440\u0430\u043d"
+    ]
+  },
+  "asiacell": {
+    "name": "AsiaCell Telecom",
+    "countries": [
+      "\u0418\u0440\u0430\u043a"
+    ]
+  },
+  "axis": {
+    "name": "AXIS (XL Axiata)",
+    "countries": [
+      "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f"
+    ]
+  },
+  "azartel": {
+    "name": "Azartel",
+    "countries": [
+      "\u0418\u0440\u0430\u043d"
+    ]
+  },
+  "azerfon": {
+    "name": "Azerfon-Vodafone",
+    "countries": [
+      "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d"
+    ]
+  },
+  "beeline": {
+    "name": "\u0411\u0438\u043b\u0430\u0439\u043d",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f",
+      "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+      "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d",
+      "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
+      "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u044f",
+      "\u0413\u0440\u0443\u0437\u0438\u044f"
+    ]
+  },
+  "best": {
+    "name": "Life:) (\u0411\u0435\u0421\u0422)",
+    "countries": [
+      "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
+    ]
+  },
+  "be_mobile": {
+    "name": "BeMobile",
+    "countries": [
+      "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"
+    ]
+  },
+  "bite": {
+    "name": "bite",
+    "countries": [
+      "\u041b\u0438\u0442\u0432\u0430",
+      "\u041b\u0430\u0442\u0432\u0438\u044f"
+    ]
+  },
+  "bouygues": {
+    "name": "Bouygues Telecom",
+    "countries": [
+      "\u0424\u0440\u0430\u043d\u0446\u0438\u044f"
+    ]
+  },
+  "cablenet": {
+    "name": "Cablenet",
+    "countries": [
+      "\u041a\u0438\u043f\u0440"
+    ]
+  },
+  "celcom": {
+    "name": "\u0421\u0435\u043b\u043a\u043e\u043c",
+    "countries": [
+      "\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f"
+    ]
+  },
+  "cellcom": {
+    "name": "\u0421\u0435\u043b\u043a\u043e\u043c",
+    "countries": [
+      "\u0413\u0432\u0438\u043d\u0435\u044f",
+      "\u041b\u0438\u0431\u0435\u0440\u0438\u044f"
+    ]
+  },
+  "cellular": {
+    "name": "U.S. Cellular",
+    "countries": [
+      "\u0421\u0428\u0410 (\u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0435)",
+      "\u041a\u0430\u043d\u0430\u0434\u0430"
+    ]
+  },
+  "cell_c": {
+    "name": "cell c",
+    "countries": [
+      "\u042e\u0410\u0420"
+    ]
+  },
+  "center2m": {
+    "name": "\u0426\u0435\u043d\u0442\u0440 2\u041c",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f"
+    ]
+  },
+  "chinamobile": {
+    "name": "China Mobile",
+    "countries": [
+      "\u041a\u0438\u0442\u0430\u0439",
+      "\u0413\u043e\u043d\u043a\u043e\u043d\u0433"
+    ]
+  },
+  "china_unicom": {
+    "name": "china unicom",
+    "countries": [
+      "\u041a\u0438\u0442\u0430\u0439"
+    ]
+  },
+  "chinguitel": {
+    "name": "Chinguitel",
+    "countries": [
+      "\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
+    ]
+  },
+  "chunghwa": {
+    "name": "Chunghwa Telecom",
+    "countries": [
+      "\u0422\u0430\u0439\u0432\u0430\u043d\u044c"
+    ]
+  },
+  "claro": {
+    "name": "Claro Americas",
+    "countries": [
+      "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f",
+      "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f",
+      "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430",
+      "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+      "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+      "\u0427\u0438\u043b\u0438"
+    ]
+  },
+  "cmlink": {
+    "name": "CMLink",
+    "countries": [
+      "\u0410\u043d\u0433\u043b\u0438\u044f"
+    ]
+  },
+  "cnt_mobile": {
+    "name": "cnt mobile",
+    "countries": [
+      "\u042d\u043a\u0432\u0430\u0434\u043e\u0440"
+    ]
+  },
+  "comium": {
+    "name": "\u0421omium",
+    "countries": [
+      "\u0413\u0430\u043c\u0431\u0438\u044f",
+      "\u041b\u0438\u0431\u0435\u0440\u0438\u044f"
+    ]
+  },
+  "comviq": {
+    "name": "ComvIQ",
+    "countries": [
+      "\u0428\u0432\u0435\u0446\u0438\u044f"
+    ]
+  },
+  "correios_celular": {
+    "name": "Correios Celular",
+    "countries": [
+      "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f"
+    ]
+  },
+  "cosmote": {
+    "name": "Cosmote",
+    "countries": [
+      "\u0413\u0440\u0435\u0446\u0438\u044f"
+    ]
+  },
+  "csl_mobile": {
+    "name": "CSL Mobile",
+    "countries": [
+      "\u0413\u043e\u043d\u043a\u043e\u043d\u0433"
+    ]
+  },
+  "cubacel": {
+    "name": "Cubacel",
+    "countries": [
+      "\u041a\u0443\u0431\u0430"
+    ]
+  },
+  "cyta": {
+    "name": "CYTA",
+    "countries": [
+      "\u041a\u0438\u043f\u0440"
+    ]
+  },
+  "danycom": {
+    "name": "Danycom Mobile",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f"
+    ]
+  },
+  "digi": {
+    "name": "DIGI Mobil",
+    "countries": [
+      "\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f",
+      "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+      "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+      "\u042f\u043c\u0430\u0439\u043a\u0430"
+    ]
+  },
+  "djezzy": {
+    "name": "Djezzy",
+    "countries": [
+      "\u0410\u043b\u0436\u0438\u0440"
+    ]
+  },
+  "dna": {
+    "name": "DNA",
+    "countries": [
+      "\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f"
+    ]
+  },
+  "dtac": {
+    "name": "DTAC",
+    "countries": [
+      "\u0422\u0430\u0438\u043b\u0430\u043d\u0434"
+    ]
+  },
+  "econet": {
+    "name": "Econet Wireless",
+    "countries": [
+      "\u041a\u0435\u043d\u0438\u044f",
+      "\u0411\u0443\u0440\u0443\u043d\u0434\u0438"
+    ]
+  },
+  "ee": {
+    "name": "EE",
+    "countries": [
+      "\u0410\u043d\u0433\u043b\u0438\u044f"
+    ]
+  },
+  "elisa": {
+    "name": "Elisa Oyj",
+    "countries": [
+      "\u042d\u0441\u0442\u043e\u043d\u0438\u044f"
+    ]
+  },
+  "epic": {
+    "name": "Epic",
+    "countries": [
+      "\u041a\u0438\u043f\u0440"
+    ]
+  },
+  "etisalat": {
+    "name": "Etisalat",
+    "countries": [
+      "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+      "\u0415\u0433\u0438\u043f\u0435\u0442",
+      "\u0428\u0440\u0438-\u041b\u0430\u043d\u043a\u0430"
+    ]
+  },
+  "etl": {
+    "name": "ETL Lao",
+    "countries": [
+      "\u041b\u0430\u043e\u0441"
+    ]
+  },
+  "euskaltel": {
+    "name": "euskaltel",
+    "countries": [
+      "\u0418\u0441\u043f\u0430\u043d\u0438\u044f"
+    ]
+  },
+  "expresso": {
+    "name": "expresso",
+    "countries": [
+      "\u0421\u0435\u043d\u0435\u0433\u0430\u043b"
+    ]
+  },
+  "ezmobile": {
+    "name": "EZ Mobile",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f",
+      "\u0410\u043d\u0433\u043b\u0438\u044f"
+    ]
+  },
+  "e_telko": {
+    "name": "E-Telko",
+    "countries": [
+      "\u041f\u043e\u043b\u044c\u0448\u0430"
+    ]
+  },
+  "fareast": {
+    "name": "Far EasTone",
+    "countries": [
+      "\u0422\u0430\u0439\u0432\u0430\u043d\u044c"
+    ]
+  },
+  "fido": {
+    "name": "fido",
+    "countries": [
+      "\u041a\u0430\u043d\u0430\u0434\u0430"
+    ]
+  },
+  "fonic": {
+    "name": "FONIC",
+    "countries": [
+      "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
+    ]
+  },
+  "free": {
+    "name": "free",
+    "countries": [
+      "\u0421\u0435\u043d\u0435\u0433\u0430\u043b"
+    ]
+  },
+  "gamcel": {
+    "name": "Gamcel Gambia Co.",
+    "countries": [
+      "\u0413\u0430\u043c\u0431\u0438\u044f"
+    ]
+  },
+  "geocell": {
+    "name": "Geocell",
+    "countries": [
+      "\u0413\u0440\u0443\u0437\u0438\u044f"
+    ]
+  },
+  "globe_telecom": {
+    "name": "Globe Telecom",
+    "countries": [
+      "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d\u044b"
+    ]
+  },
+  "glomobile": {
+    "name": "GLO Mobile",
+    "countries": [
+      "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+      "\u0413\u0430\u043d\u0430"
+    ]
+  },
+  "golan_telecom": {
+    "name": "\u0413\u043e\u043b\u0430\u043d \u0422\u0435\u043b\u0435\u043a\u043e\u043c",
+    "countries": [
+      "\u0418\u0437\u0440\u0430\u0438\u043b\u044c"
+    ]
+  },
+  "goodline": {
+    "name": "\u0413\u0443\u0434\u041b\u0430\u0439\u043d",
+    "countries": [
+      "\u042d\u0441\u0442\u043e\u043d\u0438\u044f"
+    ]
+  },
+  "hamrah_e_aval": {
+    "name": "Hamrah e Aval",
+    "countries": [
+      "\u0418\u0440\u0430\u043d",
+      "\u0413\u0440\u0443\u0437\u0438\u044f"
+    ]
+  },
+  "home_cellular": {
+    "name": "Home Cellular",
+    "countries": [
+      "\u0418\u0437\u0440\u0430\u0438\u043b\u044c"
+    ]
+  },
+  "hotlink": {
+    "name": "Hotlink",
+    "countries": [
+      "\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f"
+    ]
+  },
+  "hot_mobile": {
+    "name": "Hot Mobile",
+    "countries": [
+      "\u0418\u0437\u0440\u0430\u0438\u043b\u044c"
+    ]
+  },
+  "iam": {
+    "name": "iam",
+    "countries": [
+      "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
+    ]
+  },
+  "imc": {
+    "name": "IMC Networks",
+    "countries": [
+      "\u0413\u043e\u043d\u043a\u043e\u043d\u0433"
+    ]
+  },
+  "indosat": {
+    "name": "Indosat Ooredoo",
+    "countries": [
+      "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f"
+    ]
+  },
+  "intertelecom": {
+    "name": "\u0418\u043d\u0442\u0435\u0440\u0442\u0435\u043b\u0435\u043a\u043e\u043c",
+    "countries": [
+      "\u0423\u043a\u0440\u0430\u0438\u043d\u0430"
+    ]
+  },
+  "inwi": {
+    "name": "INWI",
+    "countries": [
+      "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
+    ]
+  },
+  "irancell": {
+    "name": "MTN Irancell",
+    "countries": [
+      "\u0418\u0440\u0430\u043d"
+    ]
+  },
+  "itelecom": {
+    "name": "Itelecom (Indochina Telecom)",
+    "countries": [
+      "\u0412\u044c\u0435\u0442\u043d\u0430\u043c"
+    ]
+  },
+  "itissalat": {
+    "name": "Itissalat al-Maghrib",
+    "countries": [
+      "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
+    ]
+  },
+  "jawwal": {
+    "name": "Jawwal",
+    "countries": [
+      "\u0418\u0437\u0440\u0430\u0438\u043b\u044c"
+    ]
+  },
+  "k2_telecom": {
+    "name": "K2 Telecom",
+    "countries": [
+      "\u0423\u0433\u0430\u043d\u0434\u0430"
+    ]
+  },
+  "kcell": {
+    "name": "Kcell",
+    "countries": [
+      "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
+    ]
+  },
+  "kena_mobile": {
+    "name": "kena mobile",
+    "countries": [
+      "\u0418\u0442\u0430\u043b\u0438\u044f"
+    ]
+  },
+  "klucz": {
+    "name": "Klucz Mobile",
+    "countries": [
+      "\u041f\u043e\u043b\u044c\u0448\u0430"
+    ]
+  },
+  "korek": {
+    "name": "Korek Telecom",
+    "countries": [
+      "\u0418\u0440\u0430\u043a"
+    ]
+  },
+  "kpn": {
+    "name": "KPN",
+    "countries": [
+      "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b"
+    ]
+  },
+  "kyivstar": {
+    "name": "\u041a\u0438\u0435\u0432\u0441\u0442\u0430\u0440",
+    "countries": [
+      "\u0423\u043a\u0440\u0430\u0438\u043d\u0430"
+    ]
+  },
+  "lacell": {
+    "name": "Lacell SU",
+    "countries": [
+      "\u0411\u0443\u0440\u0443\u043d\u0434\u0438"
+    ]
+  },
+  "lebara": {
+    "name": "\u041b\u0435\u0431\u0430\u0440\u0430",
+    "countries": [
+      "\u0410\u043d\u0433\u043b\u0438\u044f",
+      "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f",
+      "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b",
+      "\u0418\u0441\u043f\u0430\u043d\u0438\u044f",
+      "\u0424\u0440\u0430\u043d\u0446\u0438\u044f"
+    ]
+  },
+  "lemontel": {
+    "name": "Lemontel",
+    "countries": [
+      "\u041a\u0438\u043f\u0440"
+    ]
+  },
+  "libercell": {
+    "name": "LiberCell",
+    "countries": [
+      "\u041b\u0438\u0431\u0435\u0440\u0438\u044f"
+    ]
+  },
+  "libtelco": {
+    "name": "Libtelco",
+    "countries": [
+      "\u041b\u0438\u0431\u0435\u0440\u0438\u044f"
+    ]
+  },
+  "life": {
+    "name": "Life:)",
+    "countries": [
+      "\u0423\u043a\u0440\u0430\u0438\u043d\u0430",
+      "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
+    ]
+  },
+  "lmt": {
+    "name": "lmt",
+    "countries": [
+      "\u041b\u0430\u0442\u0432\u0438\u044f"
+    ]
+  },
+  "lonestar": {
+    "name": "Lonestar Cell",
+    "countries": [
+      "\u041b\u0438\u0431\u0435\u0440\u0438\u044f"
+    ]
+  },
+  "lucky": {
+    "name": "Lucky Mobile",
+    "countries": [
+      "\u041a\u0430\u043d\u0430\u0434\u0430"
+    ]
+  },
+  "lycamobile": {
+    "name": "\u041b\u0430\u0439\u043a\u0430\u043c\u043e\u0431\u0430\u0439\u043b",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f",
+      "\u0423\u043a\u0440\u0430\u0438\u043d\u0430",
+      "\u041f\u043e\u043b\u044c\u0448\u0430",
+      "\u0410\u043d\u0433\u043b\u0438\u044f",
+      "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+      "\u042e\u0410\u0420",
+      "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+      "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f",
+      "\u0428\u0432\u0435\u0446\u0438\u044f",
+      "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b",
+      "\u0418\u0441\u043f\u0430\u043d\u0438\u044f",
+      "\u0423\u0433\u0430\u043d\u0434\u0430",
+      "\u0424\u0440\u0430\u043d\u0446\u0438\u044f",
+      "\u0418\u0442\u0430\u043b\u0438\u044f",
+      "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u044f",
+      "\u0414\u0430\u043d\u0438\u044f",
+      "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f",
+      "\u0421\u0428\u0410"
+    ]
+  },
+  "l_mobi": {
+    "name": "L-mobi",
+    "countries": [
+      "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b"
+    ]
+  },
+  "magticom": {
+    "name": "MagtiCom",
+    "countries": [
+      "\u0413\u0440\u0443\u0437\u0438\u044f"
+    ]
+  },
+  "malitel": {
+    "name": "Malitel",
+    "countries": [
+      "\u041c\u0430\u043b\u0438"
+    ]
+  },
+  "mascom": {
+    "name": "Mascom",
+    "countries": [
+      "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"
+    ]
+  },
+  "matrix": {
+    "name": "\u041c\u0410\u0422\u0420\u0418\u041a\u0421 \u043c\u043e\u0431\u0430\u0439\u043b",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f"
+    ]
+  },
+  "mattel": {
+    "name": "Mattel",
+    "countries": [
+      "\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
+    ]
+  },
+  "mauritel": {
+    "name": "Mauritel",
+    "countries": [
+      "\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
+    ]
+  },
+  "mdc": {
+    "name": "MDC",
+    "countries": [
+      "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
+    ]
+  },
+  "megacom": {
+    "name": "\u041c\u0435\u0433\u0430\u043a\u043e\u043c",
+    "countries": [
+      "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d"
+    ]
+  },
+  "megafon": {
+    "name": "\u041c\u0435\u0433\u0430\u0424\u043e\u043d",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f"
+    ]
+  },
+  "metfone": {
+    "name": "metfone",
+    "countries": [
+      "\u041a\u0430\u043c\u0431\u043e\u0434\u0436\u0430"
+    ]
+  },
+  "millicom": {
+    "name": "Millicom (tiGO)",
+    "countries": [
+      "\u0413\u0430\u043d\u0430"
+    ]
+  },
+  "mobifone": {
+    "name": "MobiFone",
+    "countries": [
+      "\u0412\u044c\u0435\u0442\u043d\u0430\u043c"
+    ]
+  },
+  "mobilis": {
+    "name": "Mobilis",
+    "countries": [
+      "\u0410\u043b\u0436\u0438\u0440"
+    ]
+  },
+  "mobiuz": {
+    "name": "Mobiuz",
+    "countries": [
+      "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d"
+    ]
+  },
+  "mobtel": {
+    "name": "Telenor Serbia (Mobtel)",
+    "countries": [
+      "\u0421\u0435\u0440\u0431\u0438\u044f"
+    ]
+  },
+  "moldcell": {
+    "name": "Moldcell",
+    "countries": [
+      "\u041c\u043e\u043b\u0434\u043e\u0432\u0430"
+    ]
+  },
+  "moov": {
+    "name": "Moov",
+    "countries": [
+      "\u041a\u043e\u0442 \u0434'\u0418\u0432\u0443\u0430\u0440"
+    ]
+  },
+  "motiv": {
+    "name": "\u041c\u043e\u0442\u0438\u0432",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f"
+    ]
+  },
+  "movistar": {
+    "name": "movistar",
+    "countries": [
+      "\u0418\u0441\u043f\u0430\u043d\u0438\u044f",
+      "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430",
+      "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+      "\u0427\u0438\u043b\u0438"
+    ]
+  },
+  "mtn": {
+    "name": "MTN Group",
+    "countries": [
+      "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+      "\u041a\u043e\u0442 \u0434'\u0418\u0432\u0443\u0430\u0440",
+      "\u0419\u0435\u043c\u0435\u043d",
+      "\u042e\u0410\u0420",
+      "\u0413\u0430\u043d\u0430",
+      "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+      "\u0418\u0440\u0430\u043d",
+      "\u0413\u0432\u0438\u043d\u0435\u044f",
+      "\u042d\u0444\u0438\u043e\u043f\u0438\u044f",
+      "\u0423\u0433\u0430\u043d\u0434\u0430",
+      "\u0421\u0443\u0434\u0430\u043d",
+      "\u0420\u0443\u0430\u043d\u0434\u0430",
+      "\u0417\u0430\u043c\u0431\u0438\u044f",
+      "\u042e\u0436\u043d\u044b\u0439 \u0421\u0443\u0434\u0430\u043d"
+    ]
+  },
+  "mts": {
+    "name": "\u041c\u0422\u0421",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f",
+      "\u0423\u043a\u0440\u0430\u0438\u043d\u0430",
+      "\u0421\u0435\u0440\u0431\u0438\u044f",
+      "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
+      "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
+    ]
+  },
+  "mtt": {
+    "name": "\u041c\u0422\u0422",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f"
+    ]
+  },
+  "mtt_virtual": {
+    "name": "\u041c\u0422\u0422 \u0432\u0438\u0440\u0442\u0443\u0430\u043b",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f"
+    ]
+  },
+  "my_avon": {
+    "name": "MyAvon",
+    "countries": [
+      "\u0420\u0443\u043c\u044b\u043d\u0438\u044f"
+    ]
+  },
+  "natcom": {
+    "name": "Natcom",
+    "countries": [
+      "\u0413\u0430\u0438\u0442\u0438"
+    ]
+  },
+  "netia": {
+    "name": "Netia",
+    "countries": [
+      "\u041f\u043e\u043b\u044c\u0448\u0430"
+    ]
+  },
+  "nexttel": {
+    "name": "NeXttel",
+    "countries": [
+      "\u041a\u0430\u043c\u0435\u0440\u0443\u043d"
+    ]
+  },
+  "nos": {
+    "name": "NOS",
+    "countries": [
+      "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u044f"
+    ]
+  },
+  "o!": {
+    "name": "\u041e!",
+    "countries": [
+      "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d"
+    ]
+  },
+  "o2": {
+    "name": "\u041e2",
+    "countries": [
+      "\u0410\u043d\u0433\u043b\u0438\u044f",
+      "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f",
+      "\u0427\u0435\u0445\u0438\u044f"
+    ]
+  },
+  "ogero": {
+    "name": "Ogero",
+    "countries": [
+      "\u041b\u0438\u0432\u0430\u043d"
+    ]
+  },
+  "oi": {
+    "name": "Oi",
+    "countries": [
+      "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f"
+    ]
+  },
+  "onatel": {
+    "name": "Onatel S.A.",
+    "countries": [
+      "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e"
+    ]
+  },
+  "ooredoo": {
+    "name": "Ooredoo",
+    "countries": [
+      "\u0418\u0437\u0440\u0430\u0438\u043b\u044c",
+      "\u0410\u043b\u0436\u0438\u0440",
+      "\u0422\u0443\u043d\u0438\u0441"
+    ]
+  },
+  "optus": {
+    "name": "Optus",
+    "countries": [
+      "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f"
+    ]
+  },
+  "orange": {
+    "name": "Orange",
+    "countries": [
+      "\u041a\u0435\u043d\u0438\u044f",
+      "\u0418\u0437\u0440\u0430\u0438\u043b\u044c",
+      "\u041f\u043e\u043b\u044c\u0448\u0430",
+      "\u0410\u043d\u0433\u043b\u0438\u044f",
+      "\u0414\u0435\u043c. \u041a\u043e\u043d\u0433\u043e",
+      "\u0415\u0433\u0438\u043f\u0435\u0442",
+      "\u041a\u043e\u0442 \u0434'\u0418\u0432\u0443\u0430\u0440",
+      "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+      "\u041c\u0430\u0440\u043e\u043a\u043a\u043e",
+      "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+      "\u0410\u0432\u0441\u0442\u0440\u0438\u044f",
+      "\u0418\u0441\u043f\u0430\u043d\u0438\u044f",
+      "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+      "\u0413\u0432\u0438\u043d\u0435\u044f",
+      "\u041c\u0430\u043b\u0438",
+      "\u0423\u0433\u0430\u043d\u0434\u0430",
+      "\u0424\u0440\u0430\u043d\u0446\u0438\u044f",
+      "\u0411\u0435\u043b\u044c\u0433\u0438\u044f",
+      "\u041c\u043e\u043b\u0434\u043e\u0432\u0430",
+      "\u0422\u0443\u043d\u0438\u0441",
+      "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f",
+      "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"
+    ]
+  },
+  "ortel_mobile": {
+    "name": "Ortel Mobile",
+    "countries": [
+      "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
+    ]
+  },
+  "ose": {
+    "name": "ose",
+    "countries": [
+      "\u0413\u0440\u0435\u0446\u0438\u044f"
+    ]
+  },
+  "pelephone": {
+    "name": "\u041f\u0435\u043b\u0435\u0444\u043e\u043d",
+    "countries": [
+      "\u0418\u0437\u0440\u0430\u0438\u043b\u044c"
+    ]
+  },
+  "play": {
+    "name": "Play",
+    "countries": [
+      "\u041f\u043e\u043b\u044c\u0448\u0430"
+    ]
+  },
+  "plus": {
+    "name": "Plus",
+    "countries": [
+      "\u041f\u043e\u043b\u044c\u0448\u0430"
+    ]
+  },
+  "primetel": {
+    "name": "PrimeTel",
+    "countries": [
+      "\u041a\u0438\u043f\u0440"
+    ]
+  },
+  "qcell": {
+    "name": "QCell",
+    "countries": [
+      "\u0413\u0430\u043c\u0431\u0438\u044f",
+      "\u0421\u044c\u0435\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435"
+    ]
+  },
+  "q_telecom": {
+    "name": "Q-Telecom",
+    "countries": [
+      "\u0413\u0440\u0435\u0446\u0438\u044f"
+    ]
+  },
+  "rami_levy": {
+    "name": "Rami Levy",
+    "countries": [
+      "\u0418\u0437\u0440\u0430\u0438\u043b\u044c"
+    ]
+  },
+  "red": {
+    "name": "red",
+    "countries": [
+      "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
+    ]
+  },
+  "rightel": {
+    "name": "RighTel Communications",
+    "countries": [
+      "\u0418\u0440\u0430\u043d"
+    ]
+  },
+  "rogers": {
+    "name": "rogers",
+    "countries": [
+      "\u041a\u0430\u043d\u0430\u0434\u0430"
+    ]
+  },
+  "rostelecom": {
+    "name": "\u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f"
+    ]
+  },
+  "runex_telecom": {
+    "name": "RUNEX Telecom",
+    "countries": [
+      "\u0420\u0443\u043c\u044b\u043d\u0438\u044f"
+    ]
+  },
+  "sabafon": {
+    "name": "SabaFon",
+    "countries": [
+      "\u0419\u0435\u043c\u0435\u043d"
+    ]
+  },
+  "safaricom": {
+    "name": "Safaricom PLC",
+    "countries": [
+      "\u041a\u0435\u043d\u0438\u044f"
+    ]
+  },
+  "salaam": {
+    "name": "Salaam",
+    "countries": [
+      "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d"
+    ]
+  },
+  "salam": {
+    "name": "Salam",
+    "countries": [
+      "\u0427\u0430\u0434"
+    ]
+  },
+  "samantel": {
+    "name": "Samantel Mobile",
+    "countries": [
+      "\u0418\u0440\u0430\u043d"
+    ]
+  },
+  "sber": {
+    "name": "\u0421\u0431\u0435\u0440\u041c\u043e\u0431\u0430\u0439\u043b",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f"
+    ]
+  },
+  "sfr": {
+    "name": "SFR",
+    "countries": [
+      "\u0424\u0440\u0430\u043d\u0446\u0438\u044f"
+    ]
+  },
+  "shatel": {
+    "name": "Shatel Mobile",
+    "countries": [
+      "\u0418\u0440\u0430\u043d"
+    ]
+  },
+  "simsim": {
+    "name": "SIM SIM",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f"
+    ]
+  },
+  "smart": {
+    "name": "Smart Telecom",
+    "countries": [
+      "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d\u044b",
+      "\u0423\u0433\u0430\u043d\u0434\u0430"
+    ]
+  },
+  "smartfren": {
+    "name": "smartfren",
+    "countries": [
+      "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f"
+    ]
+  },
+  "smartone": {
+    "name": "smartone",
+    "countries": [
+      "\u0413\u043e\u043d\u043a\u043e\u043d\u0433"
+    ]
+  },
+  "smile": {
+    "name": "SmileTelecom",
+    "countries": [
+      "\u0423\u0433\u0430\u043d\u0434\u0430"
+    ]
+  },
+  "sudani_one": {
+    "name": "sudani one",
+    "countries": [
+      "\u0421\u0443\u0434\u0430\u043d"
+    ]
+  },
+  "super": {
+    "name": "Super",
+    "countries": [
+      "\u042d\u0441\u0442\u043e\u043d\u0438\u044f"
+    ]
+  },
+  "syma_mobile": {
+    "name": "Syma Mobile",
+    "countries": [
+      "\u0424\u0440\u0430\u043d\u0446\u0438\u044f"
+    ]
+  },
+  "taliya": {
+    "name": "Taliya Mobile",
+    "countries": [
+      "\u0418\u0440\u0430\u043d"
+    ]
+  },
+  "talk_telecom": {
+    "name": "Talk Telecom",
+    "countries": [
+      "\u0410\u043d\u0433\u043b\u0438\u044f"
+    ]
+  },
+  "tci": {
+    "name": "tci",
+    "countries": [
+      "\u0418\u0440\u0430\u043d"
+    ]
+  },
+  "telcel": {
+    "name": "Telcel",
+    "countries": [
+      "\u041c\u0435\u043a\u0441\u0438\u043a\u0430"
+    ]
+  },
+  "tele2": {
+    "name": "Tele2",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f",
+      "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+      "\u042d\u0441\u0442\u043e\u043d\u0438\u044f",
+      "\u041b\u0438\u0442\u0432\u0430",
+      "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f",
+      "\u0428\u0432\u0435\u0446\u0438\u044f",
+      "\u041b\u0430\u0442\u0432\u0438\u044f"
+    ]
+  },
+  "telecel": {
+    "name": "Telecel",
+    "countries": [
+      "\u041c\u0430\u043b\u0438",
+      "\u0411\u0443\u0440\u0443\u043d\u0434\u0438",
+      "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e"
+    ]
+  },
+  "telekom": {
+    "name": "Telekom",
+    "countries": [
+      "\u041b\u0430\u043e\u0441",
+      "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+      "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f",
+      "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f",
+      "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+    ]
+  },
+  "telemach": {
+    "name": "Telemach",
+    "countries": [
+      "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f"
+    ]
+  },
+  "telenor": {
+    "name": "Telenor",
+    "countries": [
+      "\u041c\u044c\u044f\u043d\u043c\u0430",
+      "\u0428\u0432\u0435\u0446\u0438\u044f",
+      "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f"
+    ]
+  },
+  "telering": {
+    "name": "Tele.Ring",
+    "countries": [
+      "\u0410\u0432\u0441\u0442\u0440\u0438\u044f"
+    ]
+  },
+  "telia": {
+    "name": "Telia Company",
+    "countries": [
+      "\u041b\u0438\u0442\u0432\u0430",
+      "\u0428\u0432\u0435\u0446\u0438\u044f"
+    ]
+  },
+  "telkom": {
+    "name": "Telkom",
+    "countries": [
+      "\u041a\u0435\u043d\u0438\u044f",
+      "\u042e\u0410\u0420"
+    ]
+  },
+  "telkomsel": {
+    "name": "Telkomsel",
+    "countries": [
+      "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f"
+    ]
+  },
+  "telus": {
+    "name": "telus",
+    "countries": [
+      "\u041a\u0430\u043d\u0430\u0434\u0430"
+    ]
+  },
+  "tesco": {
+    "name": "tesco",
+    "countries": [
+      "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
+    ]
+  },
+  "three": {
+    "name": "Three",
+    "countries": [
+      "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
+      "\u0413\u043e\u043d\u043a\u043e\u043d\u0433",
+      "\u0410\u043d\u0433\u043b\u0438\u044f",
+      "\u0428\u0432\u0435\u0446\u0438\u044f",
+      "\u0410\u0432\u0441\u0442\u0440\u0438\u044f"
+    ]
+  },
+  "tigo": {
+    "name": "tiGo",
+    "countries": [
+      "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f",
+      "\u0427\u0430\u0434",
+      "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430",
+      "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
+    ]
+  },
+  "tim": {
+    "name": "TIM",
+    "countries": [
+      "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f",
+      "\u0418\u0442\u0430\u043b\u0438\u044f"
+    ]
+  },
+  "tinkoff": {
+    "name": "\u0422\u0438\u043d\u044c\u043a\u043e\u0444\u0444 \u041c\u043e\u0431\u0430\u0439\u043b",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f"
+    ]
+  },
+  "tm": {
+    "name": "TM (Globe)",
+    "countries": [
+      "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d\u044b"
+    ]
+  },
+  "tmobile": {
+    "name": "T-Mobile (EE)",
+    "countries": [
+      "\u0421\u0428\u0410 (\u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0435)",
+      "\u041f\u043e\u043b\u044c\u0448\u0430",
+      "\u0410\u043d\u0433\u043b\u0438\u044f",
+      "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f",
+      "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b",
+      "\u0410\u0432\u0441\u0442\u0440\u0438\u044f",
+      "\u0427\u0435\u0445\u0438\u044f",
+      "\u0421\u0428\u0410"
+    ]
+  },
+  "tomato": {
+    "name": "Tomato",
+    "countries": [
+      "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f"
+    ]
+  },
+  "topconnect": {
+    "name": "Top Connect (Travel SIM)",
+    "countries": [
+      "\u042d\u0441\u0442\u043e\u043d\u0438\u044f"
+    ]
+  },
+  "touch": {
+    "name": "Touch",
+    "countries": [
+      "\u041b\u0438\u0432\u0430\u043d"
+    ]
+  },
+  "tplus": {
+    "name": "TPLUS",
+    "countries": [
+      "\u041b\u0430\u043e\u0441"
+    ]
+  },
+  "truemove": {
+    "name": "TrueMove H",
+    "countries": [
+      "\u0422\u0430\u0438\u043b\u0430\u043d\u0434"
+    ]
+  },
+  "ttk": {
+    "name": "TTK Mobile",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f"
+    ]
+  },
+  "tuenti": {
+    "name": "tuenti",
+    "countries": [
+      "\u042d\u043a\u0432\u0430\u0434\u043e\u0440"
+    ]
+  },
+  "tunicell": {
+    "name": "Tunisie Telecom",
+    "countries": [
+      "\u0422\u0443\u043d\u0438\u0441"
+    ]
+  },
+  "ucell": {
+    "name": "UCell",
+    "countries": [
+      "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d"
+    ]
+  },
+  "uganda_telecom": {
+    "name": "Uganda Telecom",
+    "countries": [
+      "\u0423\u0433\u0430\u043d\u0434\u0430"
+    ]
+  },
+  "umniah": {
+    "name": "Umniah",
+    "countries": [
+      "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f"
+    ]
+  },
+  "unicom": {
+    "name": "China Unicom",
+    "countries": [
+      "\u041a\u0438\u0442\u0430\u0439",
+      "\u0413\u043e\u043d\u043a\u043e\u043d\u0433"
+    ]
+  },
+  "unite": {
+    "name": "Unite",
+    "countries": [
+      "\u041c\u043e\u043b\u0434\u043e\u0432\u0430"
+    ]
+  },
+  "unitel": {
+    "name": "Unitel",
+    "countries": [
+      "\u041b\u0430\u043e\u0441"
+    ]
+  },
+  "utel": {
+    "name": "\u0423\u0442\u0435\u043b",
+    "countries": [
+      "\u0423\u043a\u0440\u0430\u0438\u043d\u0430"
+    ]
+  },
+  "uzmobile": {
+    "name": "Uzmobile",
+    "countries": [
+      "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d"
+    ]
+  },
+  "u_mobile": {
+    "name": "U Mobile",
+    "countries": [
+      "\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f"
+    ]
+  },
+  "vectone": {
+    "name": "Vectone Mobile",
+    "countries": [
+      "\u0410\u043d\u0433\u043b\u0438\u044f",
+      "\u0428\u0432\u0435\u0446\u0438\u044f",
+      "\u041a\u0438\u043f\u0440",
+      "\u0424\u0440\u0430\u043d\u0446\u0438\u044f"
+    ]
+  },
+  "vietnamobile": {
+    "name": "Vietnamobile",
+    "countries": [
+      "\u0412\u044c\u0435\u0442\u043d\u0430\u043c"
+    ]
+  },
+  "viettel": {
+    "name": "Viettel Group",
+    "countries": [
+      "\u0412\u044c\u0435\u0442\u043d\u0430\u043c",
+      "\u0411\u0443\u0440\u0443\u043d\u0434\u0438"
+    ]
+  },
+  "vinaphone": {
+    "name": "VinaPhone",
+    "countries": [
+      "\u0412\u044c\u0435\u0442\u043d\u0430\u043c"
+    ]
+  },
+  "vip": {
+    "name": "VIP",
+    "countries": [
+      "\u0421\u0435\u0440\u0431\u0438\u044f",
+      "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+    ]
+  },
+  "viva": {
+    "name": "viva",
+    "countries": [
+      "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+      "\u0410\u0440\u043c\u0435\u043d\u0438\u044f"
+    ]
+  },
+  "vivacom": {
+    "name": "VIVACOM",
+    "countries": [
+      "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f"
+    ]
+  },
+  "vivo": {
+    "name": "Vivo S.A.",
+    "countries": [
+      "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f",
+      "\u0410\u0440\u043c\u0435\u043d\u0438\u044f"
+    ]
+  },
+  "vodacom": {
+    "name": "Vodacom",
+    "countries": [
+      "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f",
+      "\u0414\u0435\u043c. \u041a\u043e\u043d\u0433\u043e",
+      "\u042e\u0410\u0420"
+    ]
+  },
+  "vodafone": {
+    "name": "Vodafone Group",
+    "countries": [
+      "\u0423\u043a\u0440\u0430\u0438\u043d\u0430",
+      "\u0410\u043d\u0433\u043b\u0438\u044f",
+      "\u0415\u0433\u0438\u043f\u0435\u0442",
+      "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+      "\u0413\u0430\u043d\u0430",
+      "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f",
+      "\u0428\u0432\u0435\u0446\u0438\u044f",
+      "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b",
+      "\u0418\u0441\u043f\u0430\u043d\u0438\u044f",
+      "\u0427\u0435\u0445\u0438\u044f",
+      "\u041d\u043e\u0432\u0430\u044f \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f",
+      "\u0418\u0442\u0430\u043b\u0438\u044f",
+      "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u044f",
+      "\u0413\u0440\u0435\u0446\u0438\u044f",
+      "\u0410\u043b\u0431\u0430\u043d\u0438\u044f"
+    ]
+  },
+  "wind": {
+    "name": "Wind",
+    "countries": [
+      "\u0418\u0442\u0430\u043b\u0438\u044f"
+    ]
+  },
+  "winmobile": {
+    "name": "Win Mobile",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f"
+    ]
+  },
+  "xox": {
+    "name": "xox",
+    "countries": [
+      "\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f"
+    ]
+  },
+  "xpress": {
+    "name": "XPress",
+    "countries": [
+      "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f"
+    ]
+  },
+  "yemen_mobile": {
+    "name": "Yemen Mobile",
+    "countries": [
+      "\u0419\u0435\u043c\u0435\u043d"
+    ]
+  },
+  "yoigo": {
+    "name": "yoigo",
+    "countries": [
+      "\u0418\u0441\u043f\u0430\u043d\u0438\u044f"
+    ]
+  },
+  "yoodo": {
+    "name": "Yoodo",
+    "countries": [
+      "\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f"
+    ]
+  },
+  "yota": {
+    "name": "Yota",
+    "countries": [
+      "\u0420\u043e\u0441\u0441\u0438\u044f"
+    ]
+  },
+  "you_mobile": {
+    "name": "You Mobile",
+    "countries": [
+      "\u0418\u0441\u043f\u0430\u043d\u0438\u044f"
+    ]
+  },
+  "zain": {
+    "name": "Zain",
+    "countries": [
+      "\u0418\u0440\u0430\u043a",
+      "\u0421\u0443\u0434\u0430\u043d",
+      "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f",
+      "\u042e\u0436\u043d\u044b\u0439 \u0421\u0443\u0434\u0430\u043d"
+    ]
+  },
+  "zamtel": {
+    "name": "zamtel",
+    "countries": [
+      "\u0417\u0430\u043c\u0431\u0438\u044f"
+    ]
+  },
+  "any": {
+    "name": "undefined",
+    "countries": [
+      "All"
+    ]
+  }
+}
